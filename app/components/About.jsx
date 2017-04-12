@@ -29,8 +29,29 @@ only uses a render function we can use a stateless functional component as below
 var About = (props) => {
   return(
     <div>
-      <h2>About component</h2>
-      <p>Welcome to examples page</p>
+      <h1 className="text-center">About</h1>
+      <p>
+        This is a weather application built on React.I have used Open Weather Map API to search for weather using the city name.
+        Simply enter the city name on the search and get the weather details.
+        <br/><br/><a href="https://github.com/HaswinVidanage/ReactWeather">ReactWeather</a> - Project Repository.
+
+      </p>
+      <hr/>
+      <p>
+        Here are some of the tools I used.
+      </p>
+
+      <ul>
+        <li>
+          <a href="https://facebook.github.io/react/" target="_new">React</a> - JavaScript framework used.
+        </li>
+        <li>
+          <a href="http://openweathermap.org/" target="_new">Open Weather Map</a> - API used.
+        </li>
+        <li>
+          <a href="http://foundation.zurb.com/" target="_new">Foundation</a> - Front-end framework.
+        </li>
+      </ul>
     </div>
   );
 }
