@@ -29,7 +29,7 @@ only uses a render function we can use a stateless functional component as below
 var About = (props) => {
   return(
     <div>
-      <h1 className="text-center">About</h1>
+      <h1 className="text-center page-title">About</h1>
       <p>
         This is a weather application built on React.I have used Open Weather Map API to search for weather using the city name.
         Simply enter the city name on the search and get the weather details.
@@ -38,7 +38,7 @@ var About = (props) => {
       </p>
       <hr/>
       <p>
-        Here are some of the tools I used.
+        Here are some of the tools I used :
       </p>
 
       <ul>
