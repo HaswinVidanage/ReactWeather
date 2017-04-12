@@ -29,11 +29,9 @@ var React = require('react');
 //using es6 destructuring
 var WeatherMessage = ({location,temp}) => {
   return(
-    <div>
-      <p>
+    <h3 className="text-center">
       It is {temp}&#8451; in {location}.
-      </p>
-    </div>
+    </h3>
   );
 }
 module.exports = WeatherMessage;
