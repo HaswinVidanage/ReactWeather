@@ -34,6 +34,8 @@ var About = (props) => {
         This is a weather application built on React.I have used Open Weather Map API to search for weather using the city name.
         Simply enter the city name on the search and get the weather details.
         <br/><br/><a href="https://github.com/HaswinVidanage/ReactWeather">ReactWeather</a> - Project Repository.
+        <br/>
+        &copy;2017 Haswin Vidanage
 
       </p>
       <hr/>
