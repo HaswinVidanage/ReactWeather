@@ -30,6 +30,9 @@ node server
 
 then navigate to http://localhost:3000/
 
+##Live Demo
+
+See the live demo at http://reactonweather.herokuapp.com/
 
 ## Built With
 
