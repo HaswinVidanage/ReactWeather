@@ -44,4 +44,4 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* This project is based on work of Andrew Mead of Udemy.
+* This project is based on work of Andrew Mead.
