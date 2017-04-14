@@ -42,6 +42,4 @@ See the live demo at http://reactonweather.herokuapp.com/
 
 This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md) file for details
 
-## Acknowledgments
 
-* This project is based on work of Andrew Mead.
